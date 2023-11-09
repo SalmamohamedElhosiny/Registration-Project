@@ -1,0 +1,7 @@
+salma@gmail.com,salma,mohamed,1234578,example@domain.com,2002-07-30
+salma123
+salma
+mohamed
+12345678
+example@domain.com
+2002-07-30
